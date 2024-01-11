@@ -1,0 +1,36 @@
+body{
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+}
+.button>#button1, #button2{
+    border-radius: 5px;
+}
+#button1{
+    background-color: green;
+    color: white;
+}
+#button2{
+    background-color:darkblue;
+    color: white;
+}
