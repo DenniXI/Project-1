@@ -1,4 +1,4 @@
-Nuovo progetto - Passager App
+Passager App
 
 Progetto da realizzare con il semplice uso di HTML, CSS e Javascript
 
@@ -9,6 +9,4 @@ HTML section:
 CSS section:
 - classi con nomi identificativi e possibilmente unici
 - rendere il tutto il piu chiaro e ordinato possibile
-- provare l'utilizzo di opzioni come shadow-box ecc...
-- creare i media queries per pc, tablet e mobile
 - usare soltanto una grandezza tra px, vw, rem
